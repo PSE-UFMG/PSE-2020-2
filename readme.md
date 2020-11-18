@@ -1,1 +1,1 @@
-Respositorio para o curso PSE 2020/2
+Respositório para o curso PSE 2020/2
